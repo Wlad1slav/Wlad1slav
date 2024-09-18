@@ -1,5 +1,6 @@
-![iam](https://i.pinimg.com/originals/29/90/69/299069ebd9915dd74773ef46a65519ae.gif)
 # Hi, guys. I'm Vlad 👋
+
+![iam](https://i.pinimg.com/originals/29/90/69/299069ebd9915dd74773ef46a65519ae.gif)
 
 ## 🚀 About Me
 🌈 Vladyslav, 20 y.o., full-stack developer 🧑‍💻
