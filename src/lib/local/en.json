@@ -1,0 +1,37 @@
+{
+  "name": "Vladyslav Fokin",
+  "summary": [
+    "Full Stack developer with experience in JavaScript/TypeScript, React, Next.js, and SEO.",
+    "Started as an SEO specialist and later transitioned to full-cycle development."
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer",
+      "desc": "Developed web applications using JS/TS, React, Next, Nest, Vite. Implemented frontend/backend functionality, API integration, payment and delivery systems (experience with Wayforpay, Ukrposhta, Nova Poshta), authentication through NextAuth, Firebase/OAuth, JWT."
+    },
+    {
+      "title": "SEO specialist",
+      "desc": "Analyzed websites and online stores, optimized content for search engines, developed strategies to boost organic traffic, and monitored SEO metrics for improved visibility."
+    }
+  ],
+  "education": {
+    "degree": "BSc in Software Engineering",
+    "university": "European University, Private Higher Educational Institution"
+  },
+  "en": "English",
+  "uk": "Ukrainian",
+  "ru": "Russian",
+  "cz": "Czech",
+  "soft_skills": {
+    "communication": "Communication",
+    "time_management": "Time Management",
+    "problem_solving": "Problem Solving",
+    "teamwork": "Teamwork",
+    "critical_thinking": "Critical Thinking",
+    "flexibility": "Flexibility",
+    "emotional_intelligence": "Emotional Intelligence",
+    "stress_management": "Stress Management",
+    "client_oriented": "Client Oriented",
+    "self_organization": "Self Organization"
+  }
+}
