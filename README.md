@@ -1,9 +1,9 @@
 # Hi, guys. I'm Vlad 👋
 
-![iam](https://i.pinimg.com/originals/29/90/69/299069ebd9915dd74773ef46a65519ae.gif)
+![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
 ## 🚀 About Me
-🌈 Vladyslav, 20 y.o., full-stack developer 🧑‍💻
+Vladyslav, 20 y.o., full-stack developer 🧑‍💻
 
 I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
 
@@ -17,15 +17,23 @@ I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and C
 ## 🛠 Skills
 ![ts](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 ![js](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![node](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![node](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)
 ![react](https://img.shields.io/badge/React.js-black?style=flat&logo=react)
 ![next](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![node](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
-![node](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![nest](https://img.shields.io/badge/NestJs-black?style=flat&logo=nestjs)
+![express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![pwa](https://img.shields.io/badge/PWA-black?style=flat&logo=pwa)
 ![scss](https://img.shields.io/badge/SCSS-black?style=flat&logo=sass)
 ![tailwind](https://img.shields.io/badge/Tailwind-black?style=flat&logo=tailwindcss)
 ![shadcnui](https://img.shields.io/badge/shadcn/ui-black?style=flat&logo=shadcnui)
+![php](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
+![laravel](https://img.shields.io/badge/Laravel-black?style=flat&logo=laravel)
+![wp](https://img.shields.io/badge/Wordpress_API-black?style=flat&logo=wordpress)
+![wc](https://img.shields.io/badge/Woocommerce_API-black?style=flat&logo=woocommerce)
 ![mongo](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 ![mysql](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
 ![netlify](https://img.shields.io/badge/Netlify-black?style=flat&logo=netlify)
 ![cpanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel)
 ![seo](https://img.shields.io/badge/SEO-black?style=flat)
@@ -33,7 +41,7 @@ I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and C
 ![github](https://img.shields.io/badge/Github-black?style=flat&logo=github)
 ![docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
 
-## 🦄 Silly Facts About Me
+## 🦄 About Me
 🥦 I'm aspiring to become a vegetarian.
 
 👨‍🦱 I use the pronouns "he/him" (though I'm not sure about it 🌈).
@@ -45,5 +53,3 @@ I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and C
 📺 I absolutely love sitcoms and anime.
 
 😈 I see South Park references in everything.
-
-🤯 I'm a politically correct Eastern European.
