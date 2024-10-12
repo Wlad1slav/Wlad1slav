@@ -21,6 +21,14 @@ const router = createBrowserRouter([
     {
         path: "/cv/:langParam",
         element: <CvPage />
+    },
+    {
+        path: "*",
+        element: (
+            <HomeLayout>
+                <HomePage />
+            </HomeLayout>
+        ),
     }
 ]);
 
