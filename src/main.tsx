@@ -11,7 +11,7 @@ import CvPage from "@/components/pages/cv-page.tsx";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/Wlad1slav",
         element: (
             <HomeLayout>
                 <HomePage />
@@ -19,7 +19,7 @@ const router = createBrowserRouter([
         ),
     },
     {
-        path: "/cv/:langParam",
+        path: "/Wlad1slav/cv/:langParam",
         element: <CvPage />
     },
     {

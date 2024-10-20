@@ -2,21 +2,22 @@
   "name": "Vladyslav Fokin",
   "summary": [
     "Full Stack developer with experience in JavaScript/TypeScript, React, Next.js, and SEO.",
-    "Started as an SEO specialist and later transitioned to full-cycle development."
+    "Open to Full-Stack, Frontend, Backend developer, or intern positions, available for office, hybrid, or remote work.",
+    "Born in 2004 (I will be 20 years old in 2024)."
   ],
   "experience": [
     {
       "title": "Full Stack Developer",
-      "desc": "Developed web applications using JS/TS, React, Next, Nest, Vite. Implemented frontend/backend functionality, API integration, payment and delivery systems (experience with Wayforpay, Ukrposhta, Nova Poshta), authentication through NextAuth, Firebase/OAuth, JWT."
+      "desc": "Developed web applications using JavaScript/TypeScript, React, Next, Nest, Vite. Implemented frontend/backend features, API integration, payment and delivery systems (experience with Wayforpay, Ukrposhta, Nova Poshta), authentication via NextAuth, Firebase/OAuth, JWT."
     },
     {
-      "title": "SEO specialist",
-      "desc": "Analyzed websites and online stores, optimized content for search engines, developed strategies to boost organic traffic, and monitored SEO metrics for improved visibility."
+      "title": "SEO Specialist",
+      "desc": "Analyzed websites and online stores, optimized content for search engines, developed strategies to increase organic traffic, and tracked SEO metrics to improve visibility."
     }
   ],
   "education": {
-    "degree": "BSc in Software Engineering",
-    "university": "European University, Private Higher Educational Institution"
+    "degree": "Bachelor of Software Engineering",
+    "university": "European University (Private Higher Educational Institution)"
   },
   "en": "English",
   "uk": "Ukrainian",
@@ -31,7 +32,7 @@
     "flexibility": "Flexibility",
     "emotional_intelligence": "Emotional Intelligence",
     "stress_management": "Stress Management",
-    "client_oriented": "Client Oriented",
-    "self_organization": "Self Organization"
+    "client_oriented": "Client-Oriented",
+    "self_organization": "Self-Organization"
   }
 }
