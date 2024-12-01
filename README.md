@@ -3,9 +3,9 @@
 ![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
 ## 🚀 About Me
-Vladyslav, 20 y.o., full-stack developer 🧑‍💻. My stack: TypeScript with React/Next.js on the frontend, NestJS or Laravel on the backend, MongoDB, MySQL, or PostgreSQL for databases.
+Vladyslav, 20 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
 
-I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
+My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreSQL/MySQL/MongoDB, Prisma/Mongoose.
 
 ![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlad1slav&layout=compact&langs_count=10&theme=tokyonight&hide=html,php)
@@ -17,19 +17,19 @@ I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and C
 ## 🛠 Skills
 ### Languages
 
-[![languages](https://skillicons.dev/icons?i=typescript,javascript,html,css,sass,php&theme=dark&perline=15)](https://skillicons.dev)
+![languages](https://skillicons.dev/icons?i=typescript,javascript,html,css,sass,php&theme=dark&perline=15)
 
 ### Frameworks & libraries
 
-[![frameworks & libraries](https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,expressjs,laravel,tailwindcss,prisma,redux&theme=dark&perline=15)](https://skillicons.dev)
+![frameworks & libraries](https://skillicons.dev/icons?i=nodejs,react,nextjs,remix,nestjs,expressjs,laravel,tailwindcss,redux,prisma&theme=dark&perline=15)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark&perline=15)](https://skillicons.dev)
+![databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark&perline=15)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,wordpress,git,github,netlify,firebase&theme=dark&perline=15)](https://skillicons.dev)
+![tools](https://skillicons.dev/icons?i=docker,postman,wordpress,git,github,netlify,firebase&theme=dark&perline=15)
 
 ## 🦄 About Me
 🥦 I'm aspiring to become a vegetarian.
