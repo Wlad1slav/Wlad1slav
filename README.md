@@ -10,7 +10,7 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 ![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlad1slav&layout=compact&langs_count=10&theme=tokyonight&hide=html,php)
 ## 🔗 Links
-[![rasik](https://img.shields.io/badge/rasik-000?style=for-the-badge&logoColor=white)](https://wlad1slav.github.io/Wlad1slav/)
+[![rasik](https://img.shields.io/badge/rasik-000?style=for-the-badge&logoColor=white)](https://agile-alpaca.com/about/vladyslav-fokin)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-fokin-b35950298/)
 [![telegram](https://img.shields.io/badge/Telegram-2FA2DA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladyslav_fokin)
 
@@ -33,8 +33,6 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 
 ## 🦄 About Me
 🥦 I'm aspiring to become a vegetarian.
-
-👨‍🦱 I use the pronouns "he/him" (though I'm not sure about it 🌈).
 
 🎮 I love Paradox Inc. strategy games (and also hate them).
 
