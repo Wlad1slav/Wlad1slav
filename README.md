@@ -3,7 +3,7 @@
 ![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
 ## 🚀 About Me
-Vladyslav, 20 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
+Vladyslav, 21 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
 
 My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreSQL/MySQL/MongoDB, Prisma/Mongoose.
 
