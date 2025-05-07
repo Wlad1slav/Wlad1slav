@@ -10,7 +10,7 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 ![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlad1slav&layout=compact&langs_count=10&theme=tokyonight&hide=html,php)
 ## 🔗 Links
-[![rasik](https://img.shields.io/badge/rasik-000?style=for-the-badge&logoColor=white)](https://agile-alpaca.com/about/vladyslav-fokin)
+[![vladyslav](https://img.shields.io/badge/vladyslav-000?style=for-the-badge&logoColor=white)](https://vladyslav-fokin.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-fokin-b35950298/)
 [![telegram](https://img.shields.io/badge/Telegram-2FA2DA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladyslav_fokin)
 
@@ -29,15 +29,10 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 
 ### Tools
 
-![tools](https://skillicons.dev/icons?i=docker,postman,wordpress,git,github,netlify,firebase&theme=dark&perline=15)
+![tools](https://skillicons.dev/icons?i=docker,postman,git,github,netlify,firebase,linux&theme=dark&perline=15)
 
 ## 🦄 About Me
-🥦 I'm aspiring to become a vegetarian.
 
-🎮 I love Paradox Inc. strategy games (and also hate them).
+There’s not much I can say about myself. I live, work, relax, enjoy life, and repeat. Like anyone else, I love cute animals. Sitcom addict, occasional anime or adult animated series. Powered by sun, sea, and warmth.
 
-☕ I'm a bit of a coffee lover.
-
-📺 I absolutely love sitcoms and anime.
-
-😈 I see South Park references in everything.
+![photo_2025-05-07_11-32-37 w400](https://github.com/user-attachments/assets/dd103e1b-66e0-4228-8a5f-e496dd0954ce)
