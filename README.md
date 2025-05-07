@@ -34,5 +34,3 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 ## 🦄 About Me
 
 There’s not much I can say about myself. I live, work, relax, enjoy life, and repeat. Like anyone else, I love cute animals. Sitcom addict, occasional anime or adult animated series. Powered by sun, sea, and warmth.
-
-![photo_2025-05-07_11-32-37 w400](https://github.com/user-attachments/assets/dd103e1b-66e0-4228-8a5f-e496dd0954ce)
