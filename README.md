@@ -2,7 +2,7 @@
 
 ![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
-## 🚀 About Me 
+## 🦄 About Me 
 Vladyslav, 21 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
 
 My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreSQL/MySQL/MongoDB, Prisma/Mongoose.
@@ -30,7 +30,3 @@ My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreS
 ### Tools
 
 ![tools](https://skillicons.dev/icons?i=docker,postman,git,github,netlify,firebase,linux&theme=dark&perline=15)
-
-## 🦄 About Me
-
-There’s not much I can say about myself. I live, work, relax, enjoy life, and repeat. Like anyone else, I love cute animals. Sitcom addict, occasional anime or adult animated series. Powered by sun, sea, and warmth.
