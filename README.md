@@ -3,9 +3,9 @@
 ![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
 ## 🦄 About Me 
-Vladyslav, 21 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊. I speak Ukrainian, Russian, and Czech, but I’ve got no problem getting into online arguments in English. 
+Vladyslav, 22 y.o., full-stack developer 🧑‍💻. I live in Kyiv, originally from Feodosia 🌊.
 
-My stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreSQL/MySQL/MongoDB, Prisma/Mongoose.
+Stack: TypeScript, Tailwind/SCSS, React, Next/Remix, NestJS/Laravel, PostgreSQL/MySQL/MongoDB, Prisma/Mongoose.
 
 ![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlad1slav&layout=compact&langs_count=10&theme=tokyonight&hide=html,php)
