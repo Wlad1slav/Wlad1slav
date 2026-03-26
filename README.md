@@ -2,7 +2,6 @@
 
 ![coffe](https://media1.tenor.com/m/zb491Il5MxoAAAAC/tweek-south-park.gif)
 
-[![vladyslav](https://img.shields.io/badge/vladyslav-000?style=for-the-badge&logoColor=white)](https://vladyslav-fokin.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-fokin-b35950298/)
 [![telegram](https://img.shields.io/badge/Telegram-2FA2DA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladyslav_fokin)
 
