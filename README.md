@@ -10,7 +10,7 @@
 - 🌍 Based in Kyiv, originally from Feodosia 🌊
 - 🛒 Focused on e-commerce solutions
 
-![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api/?username=Wlad1slav&show_icons=true&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlad1slav&layout=compact&langs_count=10&theme=tokyonight&hide=html,php)
 
 ## 🛠 Skills
